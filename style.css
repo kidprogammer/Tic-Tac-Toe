@@ -44,7 +44,7 @@ nav ul{
 }
 
 .box:hover{
-    background-color: blue;
+    background-color: rgb(197, 178, 197);
 }
 .gameInfo{
     padding: 0 34px;
